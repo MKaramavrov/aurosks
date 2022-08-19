@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\config\AppConfig.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\config\WebAppInitializer.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\config\WebConfig.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\controller\KnowledgePackageController.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\controller\KnowledgePackageSetController.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dao\impl\KnowledgePackageDaoImpl.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dao\impl\KnowledgePackageSetDaoImpl.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dao\KnowledgePackageDao.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dao\KnowledgePackageSetDao.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\mapper\KnowledgePackageMapper.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\mapper\KnowledgePackageSetMapper.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\request\KnowledgePackageRequestDto.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\request\KnowledgePackageSetRequestDto.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\responce\KnowledgePackageResponseDto.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\dto\responce\KnowledgePackageSetResponseDto.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\exception\DataProcessingException.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\model\KnowledgePackage.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\model\KnowledgePackageSet.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\service\impl\KnowledgePackageServiceImpl.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\service\impl\KnowledgePackageSetServiceImpl.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\service\KnowledgePackageService.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\service\KnowledgePackageSetService.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\java\aurosks\util\ConnectionUtil.java">
+</file>
+<file name="C:\Users\Max\IdeaProjects\aurosks\aurosks\src\main\resources\db.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,26 @@
+#Fri Aug 19 13:51:13 EEST 2022
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\mapper\\KnowledgePackageSetMapper.java=1660814502943
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\service\\KnowledgePackageSetService.java=1660825914385
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\config\\AppConfig.java=1660827087584
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\responce\\KnowledgePackageResponseDto.java=1660750174521
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\request\\KnowledgePackageSetRequestDto.java=1660756833604
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\controller\\KnowledgePackageSetController.java=1660826097205
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\exception\\DataProcessingException.java=1660735991590
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\mapper\\KnowledgePackageMapper.java=1660814502926
+configuration*?=B491F9066964FB49F9A3B7DF398ACB1063A2F576
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\service\\impl\\KnowledgePackageServiceImpl.java=1660814226618
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\service\\KnowledgePackageService.java=1660746633481
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dao\\KnowledgePackageDao.java=1660756833588
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\util\\ConnectionUtil.java=1660828873561
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\config\\WebAppInitializer.java=1660759625126
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dao\\KnowledgePackageSetDao.java=1660825898453
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\service\\impl\\KnowledgePackageSetServiceImpl.java=1660825909563
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\model\\KnowledgePackage.java=1660738156536
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\request\\KnowledgePackageRequestDto.java=1660758457712
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\config\\WebConfig.java=1660759625143
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dao\\impl\\KnowledgePackageDaoImpl.java=1660829232366
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\model\\KnowledgePackageSet.java=1660751284509
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dto\\responce\\KnowledgePackageSetResponseDto.java=1660755876650
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\controller\\KnowledgePackageController.java=1660906263780
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\resources\\db.properties=1660825920241
+C\:\\Users\\Max\\IdeaProjects\\aurosks\\aurosks\\src\\main\\java\\aurosks\\dao\\impl\\KnowledgePackageSetDaoImpl.java=1660825983228
